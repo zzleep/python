@@ -7,7 +7,7 @@ z = "3" #str
 # In order to convert a value data type into another data type, you must:
 # datatype(y)
 
-x = float(x)
+x = float(x) # Converts int > float
 y = int(y) # Will convert the actual variable without performing typecasting on the print function
 z = int(z) # Converts the string into an int so that it can perform a mathematics operation
 
