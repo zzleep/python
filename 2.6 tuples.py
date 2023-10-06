@@ -1,4 +1,4 @@
-# Tuple = collection which is ordered and unchangeable
+e# Tuple = collection which is ordered and unchangeable
 #         used to group together related data
 
 student = ("Zack", 19, "male")
