@@ -4,5 +4,5 @@
 
 Prerequesites:
 
-https://www.python.org/downloads/ - Python
-https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC - pycharm
+#https://www.python.org/downloads/ - Python
+#https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC - pycharm
