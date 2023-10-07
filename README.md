@@ -4,6 +4,9 @@
 
 Prerequesites:
 
-https://www.python.org/downloads/ - Python
+Python - https://www.python.org/downloads/
 
-https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC - pycharm
+Pycharm Community Version - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+
+VS Code - https://code.visualstudio.com/download
+
